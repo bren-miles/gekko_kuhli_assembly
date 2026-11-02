@@ -3,7 +3,7 @@
 Reassembly of the *Gekko kuhli* genome, including sex chromosome identification.
 
 
-**Input Data**
+**Input Data:**
 
 | Type | SRA |
 | --- | --- |
