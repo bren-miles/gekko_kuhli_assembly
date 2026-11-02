@@ -1,0 +1,8 @@
+#Run interactively
+
+module load mamba_install
+
+source myconda
+
+mamba create -n hifi_env hifiasm fastqc multiqc gfatools assembly-stats seqkit seqtk tidk jellyfish \ 
+samtools bamtools compleasm ncbi-datasets-cli snakemake bbmap
